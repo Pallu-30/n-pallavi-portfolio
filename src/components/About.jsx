@@ -70,7 +70,7 @@ const About = () => {
                 {/* Profile photo */}
                 <img
                   src={stackImage}
-                  alt={`${personalInfo.name} Portrait`}
+                  alt="N Pallavi — Data Analytics, TAP Academy student"
                   className="w-full flex-1 rounded-xl object-cover object-top shadow-inner"
                 />
               </div>
